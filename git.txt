@@ -1,2 +1,4 @@
 git add . to update all files
 git add file name index.html
+git commit -m "msg"
+git push origin main

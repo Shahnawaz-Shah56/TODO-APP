@@ -1,4 +1,4 @@
 # TODO-APP
 This is my second project of JavaScript.
-Author Shahnawaz Shah56
+Author Shahnawaz Shah
 
